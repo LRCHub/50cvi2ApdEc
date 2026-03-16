@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "炎夏",
+  "base_artist": "Anya Melfissa",
+  "createdAt": "2026-03-16T01:56:11.776824Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "炎夏",
+      "artist": "Anya Melfissa",
+      "has_synced": false,
+      "path": "select/pl_01_炎夏_Anya_Melfissa.txt"
+    }
+  ]
+}
